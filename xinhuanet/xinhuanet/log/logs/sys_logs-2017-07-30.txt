@@ -1,0 +1,25 @@
+[2017-07-30 07:48:22.112353] DEBUG: 中搜Demo--xinhuanet: 启动xinhuanet爬虫运行
+[2017-07-30 07:57:39.984665] DEBUG: 中搜Demo--xinhuanet: 启动xinhuanet爬虫运行
+[2017-07-30 07:57:40.000704] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml开始
+[2017-07-30 07:57:40.052567] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml结束
+[2017-07-30 07:58:16.132529] DEBUG: 中搜Demo--xinhuanet: 启动xinhuanet爬虫运行
+[2017-07-30 07:58:16.147420] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml开始
+[2017-07-30 07:58:16.199156] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml结束
+[2017-07-30 07:58:17.963713] DEBUG: 中搜Demo--xinhuanet: =====================init mongodb=========================
+[2017-07-30 07:58:17.963916] DEBUG: 中搜Demo--xinhuanet: init mongodb start
+[2017-07-30 07:58:17.965689] DEBUG: 中搜Demo--xinhuanet: init mongodb end
+[2017-07-30 08:03:13.907359] DEBUG: 中搜Demo--xinhuanet: 启动xinhuanet爬虫运行
+[2017-07-30 08:03:13.922935] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml开始
+[2017-07-30 08:03:13.974903] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml结束
+[2017-07-30 08:03:58.150976] DEBUG: 中搜Demo--xinhuanet: 启动xinhuanet爬虫运行
+[2017-07-30 08:03:58.165666] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml开始
+[2017-07-30 08:03:58.217591] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml结束
+[2017-07-30 08:03:59.958461] DEBUG: 中搜Demo--xinhuanet: =====================init mongodb=========================
+[2017-07-30 08:03:59.958637] DEBUG: 中搜Demo--xinhuanet: init mongodb start
+[2017-07-30 08:03:59.960130] DEBUG: 中搜Demo--xinhuanet: init mongodb end
+[2017-07-30 08:25:46.063492] DEBUG: 中搜Demo--xinhuanet: 启动xinhuanet爬虫运行
+[2017-07-30 08:25:46.078078] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml开始
+[2017-07-30 08:25:46.130035] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml结束
+[2017-07-30 08:25:47.870008] DEBUG: 中搜Demo--xinhuanet: =====================init mongodb=========================
+[2017-07-30 08:25:47.870231] DEBUG: 中搜Demo--xinhuanet: init mongodb start
+[2017-07-30 08:25:47.871860] DEBUG: 中搜Demo--xinhuanet: init mongodb end

@@ -1,0 +1,1254 @@
+[2017-07-30 07:58:18.206825] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.fj.xinhuanet.com/zt/2016tmssykhj/index.htm$$$$
+[2017-07-30 07:58:18.246892] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/03/c_129646025.htm$$$$
+[2017-07-30 07:58:18.372690] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/hot/thinker-conference/index.html$$$$
+[2017-07-30 07:58:18.416865] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/fortune/caiyan/ksh/233.htm$$$$
+[2017-07-30 07:58:22.126590] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/tw/zhuanti/tgaqnckdlcz/ztsy.htm$$$$
+[2017-07-30 07:58:22.480774] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/10/c_129651096.htm$$$$
+[2017-07-30 07:58:24.931160] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/gangao/tfsj/break3/20150608.htm$$$$
+[2017-07-30 08:04:00.203223] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/$$$$
+[2017-07-30 08:04:00.322716] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/$$$$
+[2017-07-30 08:04:00.795705] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/2017KaoLaGermany/index.html?from=singlemessage&isappinstalled=0$$$$
+[2017-07-30 08:04:00.888393] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/money/2017-07/06/c_129648684.htm$$$$
+[2017-07-30 08:04:00.965922] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://cae.xinhuanet.com$$$$
+[2017-07-30 08:04:00.976771] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://kr.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.016185] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://arabic.news.cn/$$$$
+[2017-07-30 08:04:01.027868] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://jp.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.038608] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://russian.news.cn/$$$$
+[2017-07-30 08:04:01.050976] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://french.news.cn/$$$$
+[2017-07-30 08:04:01.061846] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://herald.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.125737] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.tj.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.217796] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.ah.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.229149] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sd.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.241296] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://german.xinhuanet.com$$$$
+[2017-07-30 08:04:01.251517] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.bj.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.263823] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://spanish.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.285632] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xizang.news.cn/$$$$
+[2017-07-30 08:04:01.318740] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://uyghur.news.cn/$$$$
+[2017-07-30 08:04:01.328848] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://portuguese.xinhuanet.com/index.htm$$$$
+[2017-07-30 08:04:01.339577] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.js.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.372376] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://mrdx.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.383211] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://chinesejournalist.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.453907] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.jl.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.464029] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.ln.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.474852] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sh.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.519367] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://mongolian.news.cn/$$$$
+[2017-07-30 08:04:01.550694] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.ha.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.571330] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.he.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.710043] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sx.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.723933] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.qh.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.734187] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sn.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.745252] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.hb.xinhuanet.com/$$$$
+[2017-07-30 08:04:01.867225] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.nx.xinhuanet.com/$$$$
+[2017-07-30 08:04:02.290537] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://th.news.cn$$$$
+[2017-07-30 08:04:02.620604] INFO: 中搜Demo--xinhuanet: $$$$开始解析：https://mail.xinhuanet.com/$$$$
+[2017-07-30 08:04:02.626028] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://korea.xinhuanet.com/$$$$
+[2017-07-30 08:04:02.636076] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sg.xinhuanet.com/$$$$
+[2017-07-30 08:04:02.646598] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xj.xinhuanet.com/$$$$
+[2017-07-30 08:04:02.668045] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://cx.news.cn/index.htm$$$$
+[2017-07-30 08:04:02.700205] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://chanye.news.cn/$$$$
+[2017-07-30 08:04:02.716346] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.hn.xinhuanet.com/$$$$
+[2017-07-30 08:04:03.124744] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.yn.xinhuanet.com/$$$$
+[2017-07-30 08:04:03.135461] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.nmg.xinhuanet.com/$$$$
+[2017-07-30 08:04:03.167098] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://book.news.cn/$$$$
+[2017-07-30 08:04:03.540034] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://big5.xinhuanet.com/gate/big5/www.news.cn/$$$$
+[2017-07-30 08:04:03.998308] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://travel.news.cn/$$$$
+[2017-07-30 08:04:04.027766] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/$$$$
+[2017-07-30 08:04:04.451541] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://education.news.cn/$$$$
+[2017-07-30 08:04:04.462449] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.jx.xinhuanet.com/$$$$
+[2017-07-30 08:04:04.472900] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn$$$$
+[2017-07-30 08:04:06.402860] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/index.jsp$$$$
+[2017-07-30 08:04:06.883989] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.fj.xinhuanet.com/$$$$
+[2017-07-30 08:04:07.326080] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.gs.xinhuanet.com/$$$$
+[2017-07-30 08:04:07.471628] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://tibet.news.cn/$$$$
+[2017-07-30 08:04:09.183116] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/english/$$$$
+[2017-07-30 08:04:09.589715] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/tank$$$$
+[2017-07-30 08:04:10.410227] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xhgy.xinhuanet.com/$$$$
+[2017-07-30 08:04:10.737574] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://mt.news.cn/$$$$
+[2017-07-30 08:04:10.747796] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://silkroad.news.cn/$$$$
+[2017-07-30 08:04:10.768658] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/xhsd/index.htm$$$$
+[2017-07-30 08:04:11.525864] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://scifi.news.cn/$$$$
+[2017-07-30 08:04:12.258051] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://game.news.cn/$$$$
+[2017-07-30 08:04:12.784100] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/cankao/$$$$
+[2017-07-30 08:04:13.282055] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/mx.htm$$$$
+[2017-07-30 08:04:13.759477] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/$$$$
+[2017-07-30 08:04:14.154093] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/2016zgkhllzxtp/index.html$$$$
+[2017-07-30 08:04:14.164115] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/vr/wnsjjzg/$$$$
+[2017-07-30 08:04:15.082063] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/wzdt2014.htm$$$$
+[2017-07-30 08:04:16.411004] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/mls.htm$$$$
+[2017-07-30 08:04:16.779234] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/2016zt/2016ydyl/index.htm$$$$
+[2017-07-30 08:04:17.501882] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/local/nxw.htm$$$$
+[2017-07-30 08:04:17.820083] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/globe/globe.htm$$$$
+[2017-07-30 08:04:20.326867] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/tycy.htm$$$$
+[2017-07-30 08:04:20.739826] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/$$$$
+[2017-07-30 08:04:21.130565] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/city/cshkt.htm$$$$
+[2017-07-30 08:04:22.052528] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/$$$$
+[2017-07-30 08:04:22.229510] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/zhty.htm$$$$
+[2017-07-30 08:04:23.416582] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/datanews/wyf.htm$$$$
+[2017-07-30 08:04:24.406203] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/2017special/2017knbhqhh/$$$$
+[2017-07-30 08:04:25.831101] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/vr/$$$$
+[2017-07-30 08:04:27.553982] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/datanews/xxt.htm$$$$
+[2017-07-30 08:04:30.182142] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/foto/$$$$
+[2017-07-30 08:04:30.390405] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xuan.news.cn/zt/iframe_jieshuys.html$$$$
+[2017-07-30 08:04:31.358105] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/datanews/pcjh.htm$$$$
+[2017-07-30 08:04:33.457190] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/power/$$$$
+[2017-07-30 08:04:35.113711] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/xhll.htm$$$$
+[2017-07-30 08:04:35.219268] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/2017-07/30/c_1121401639.htm$$$$
+[2017-07-30 08:04:37.458199] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/health/$$$$
+[2017-07-30 08:04:38.296450] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/2015wlds/index.htm$$$$
+[2017-07-30 08:04:38.452743] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://imgs.xinhuanet.com/icon/home/asianet.htm$$$$
+[2017-07-30 08:04:39.248884] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/2017-07/30/c_1121402376.htm$$$$
+[2017-07-30 08:04:41.029902] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/culture/$$$$
+[2017-07-30 08:04:41.770441] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/datanews/index.htm$$$$
+[2017-07-30 08:04:44.922325] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/author$$$$
+[2017-07-30 08:04:45.255719] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/video/xinhuaradio/$$$$
+[2017-07-30 08:04:45.290703] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141080667/1.html$$$$
+[2017-07-30 08:04:45.430192] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/jiadian/$$$$
+[2017-07-30 08:04:48.367172] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/auto/index.htm$$$$
+[2017-07-30 08:04:49.718384] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141082129/1.html$$$$
+[2017-07-30 08:04:50.288267] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/forum/sqgj/jrht.htm$$$$
+[2017-07-30 08:04:52.416170] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/city/index.htm$$$$
+[2017-07-30 08:04:52.748976] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141084974/1.html$$$$
+[2017-07-30 08:04:53.867589] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/2015wlds/enindex.htm$$$$
+[2017-07-30 08:04:56.545477] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/food/index.htm$$$$
+[2017-07-30 08:04:56.774028] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141085344/1.html$$$$
+[2017-07-30 08:04:57.970543] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/science/kpzgxhwzq.htm$$$$
+[2017-07-30 08:05:00.620421] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141089115/1.html$$$$
+[2017-07-30 08:05:00.699090] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/info/index.htm$$$$
+[2017-07-30 08:05:00.876670] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667081.htm$$$$
+[2017-07-30 08:05:02.005350] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/science/scez/index.htm$$$$
+[2017-07-30 08:05:04.254913] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141089869/1.html$$$$
+[2017-07-30 08:05:04.298523] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tech/index.htm$$$$
+[2017-07-30 08:05:05.745100] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/sghyg/index.htm$$$$
+[2017-07-30 08:05:07.598559] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141089964/1.html$$$$
+[2017-07-30 08:05:07.743469] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/28/c_1121392452.htm$$$$
+[2017-07-30 08:05:08.532620] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/cfx.htm$$$$
+[2017-07-30 08:05:09.189789] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/2017yb/index.htm$$$$
+[2017-07-30 08:05:11.640637] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/28/c_1121392889.htm$$$$
+[2017-07-30 08:05:11.878185] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/house/index.htm$$$$
+[2017-07-30 08:05:13.626038] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/photo/zhuanti/bt/index.htm$$$$
+[2017-07-30 08:05:14.940619] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/28/c_1121392988.htm$$$$
+[2017-07-30 08:05:16.177034] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/jiaju/index.htm$$$$
+[2017-07-30 08:05:16.599081] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/2015fpr/index.htm$$$$
+[2017-07-30 08:05:18.021927] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/28/c_1121393014.htm$$$$
+[2017-07-30 08:05:19.517989] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/dlfjdwn/index.htm$$$$
+[2017-07-30 08:05:19.759213] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/legal/index.htm$$$$
+[2017-07-30 08:05:21.139712] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/tw/2017-07/29/c_1121400781.htm$$$$
+[2017-07-30 08:05:23.344318] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/world/2017daqiju/index.htm$$$$
+[2017-07-30 08:05:23.738835] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/local/index.htm$$$$
+[2017-07-30 08:05:23.904270] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/city/2017-07/27/c_129664778.htm$$$$
+[2017-07-30 08:05:23.977870] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121391979.htm$$$$
+[2017-07-30 08:05:26.896470] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/city/2017-07/27/c_129664782.htm$$$$
+[2017-07-30 08:05:27.417242] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/finance/tzzjyfwjd/index.htm$$$$
+[2017-07-30 08:05:27.463137] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/abroad/index.htm$$$$
+[2017-07-30 08:05:30.598625] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/city/2017-07/28/c_129666004.htm$$$$
+[2017-07-30 08:05:31.112502] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/video/xinhuaradio/index.htm$$$$
+[2017-07-30 08:05:31.729106] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/energy/index.htm$$$$
+[2017-07-30 08:05:33.804287] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/xgc.htm$$$$
+[2017-07-30 08:05:34.230397] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm$$$$
+[2017-07-30 08:05:34.232014] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm$$$$
+[2017-07-30 08:05:34.232150] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm$$$$
+[2017-07-30 08:05:35.744605] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm$$$$
+[2017-07-30 08:05:35.745154] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm start$$$$
+[2017-07-30 08:05:35.746809] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:05:36.054937] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/xuanzhi/zt/xzyxl/index.html$$$$
+[2017-07-30 08:05:37.436114] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/renshi/index.htm$$$$
+[2017-07-30 08:05:38.325929] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/info/2017-07/30/c_136484395.htm$$$$
+[2017-07-30 08:05:38.327815] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/info/2017-07/30/c_136484395.htm$$$$
+[2017-07-30 08:05:38.327930] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/info/2017-07/30/c_136484395.htm$$$$
+[2017-07-30 08:05:38.708077] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/info/2017-07/30/c_136484395.htm$$$$
+[2017-07-30 08:05:38.708678] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/info/2017-07/30/c_136484395.htm start$$$$
+[2017-07-30 08:05:38.709794] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:05:39.870765] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/photo/zhuanti/dmzg/index.htm$$$$
+[2017-07-30 08:05:41.138190] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/yuqing/index.htm$$$$
+[2017-07-30 08:05:42.130063] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/info/2017-07/30/c_136484605.htm$$$$
+[2017-07-30 08:05:42.131746] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/info/2017-07/30/c_136484605.htm$$$$
+[2017-07-30 08:05:42.131872] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/info/2017-07/30/c_136484605.htm$$$$
+[2017-07-30 08:05:42.429838] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/info/2017-07/30/c_136484605.htm$$$$
+[2017-07-30 08:05:42.430392] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/info/2017-07/30/c_136484605.htm start$$$$
+[2017-07-30 08:05:42.431380] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:05:43.912427] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/newmedia/2017zgws02jx/index.htm$$$$
+[2017-07-30 08:05:44.674198] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/finance/istock.htm$$$$
+[2017-07-30 08:05:46.123276] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/info/2017-07/30/c_136484702.htm$$$$
+[2017-07-30 08:05:46.124907] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/info/2017-07/30/c_136484702.htm$$$$
+[2017-07-30 08:05:46.125034] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/info/2017-07/30/c_136484702.htm$$$$
+[2017-07-30 08:05:46.425847] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/info/2017-07/30/c_136484702.htm$$$$
+[2017-07-30 08:05:46.426448] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/info/2017-07/30/c_136484702.htm start$$$$
+[2017-07-30 08:05:46.427557] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:05:46.680978] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/liangxueyizuo/index.htm$$$$
+[2017-07-30 08:05:48.500289] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/newmedia/index.htm$$$$
+[2017-07-30 08:05:49.119756] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/auto/2017-07/28/c_1121392576.htm$$$$
+[2017-07-30 08:05:52.411390] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/whxw.htm$$$$
+[2017-07-30 08:05:53.438415] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/forum/2017-07/29/c_129666499.htm$$$$
+[2017-07-30 08:05:54.766303] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/xhjj.htm$$$$
+[2017-07-30 08:05:57.637537] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm$$$$
+[2017-07-30 08:05:57.639289] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm$$$$
+[2017-07-30 08:05:57.639426] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm$$$$
+[2017-07-30 08:05:58.527882] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm$$$$
+[2017-07-30 08:05:58.528339] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm start$$$$
+[2017-07-30 08:05:58.529276] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:05:58.683703] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/local/$$$$
+[2017-07-30 08:06:01.768972] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/money/2017-07/29/c_129666915.htm$$$$
+[2017-07-30 08:06:02.094688] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/xhtp.htm$$$$
+[2017-07-30 08:06:04.827235] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/money/2017-07/29/c_129666916.htm$$$$
+[2017-07-30 08:06:05.369012] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/legal/fy.htm$$$$
+[2017-07-30 08:06:09.253040] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/money/2017-07/29/c_129666969.htm$$$$
+[2017-07-30 08:06:09.326817] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/legal/ffu.htm$$$$
+[2017-07-30 08:06:12.675595] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/djch.htm$$$$
+[2017-07-30 08:06:13.119999] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/money/2017-07/29/c_129666972.htm$$$$
+[2017-07-30 08:06:16.312904] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/zktx.htm$$$$
+[2017-07-30 08:06:16.860010] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/tech/2017-07/28/c_1121392055.htm$$$$
+[2017-07-30 08:06:16.861805] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/tech/2017-07/28/c_1121392055.htm$$$$
+[2017-07-30 08:06:16.861940] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/tech/2017-07/28/c_1121392055.htm$$$$
+[2017-07-30 08:06:17.449874] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/tech/2017-07/28/c_1121392055.htm$$$$
+[2017-07-30 08:06:17.450483] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/tech/2017-07/28/c_1121392055.htm start$$$$
+[2017-07-30 08:06:17.451756] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:06:20.539212] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/tech/2017-07/28/c_1121392127.htm$$$$
+[2017-07-30 08:06:20.541152] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/tech/2017-07/28/c_1121392127.htm$$$$
+[2017-07-30 08:06:20.541288] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/tech/2017-07/28/c_1121392127.htm$$$$
+[2017-07-30 08:06:21.118651] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/tech/2017-07/28/c_1121392127.htm$$$$
+[2017-07-30 08:06:21.119171] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/tech/2017-07/28/c_1121392127.htm start$$$$
+[2017-07-30 08:06:21.120128] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:06:21.223724] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/zxtp.htm$$$$
+[2017-07-30 08:06:23.523305] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/info/spsy/$$$$
+[2017-07-30 08:06:24.943532] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/tech/2017-07/28/c_1121392514.htm$$$$
+[2017-07-30 08:06:24.945151] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/tech/2017-07/28/c_1121392514.htm$$$$
+[2017-07-30 08:06:24.945313] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/tech/2017-07/28/c_1121392514.htm$$$$
+[2017-07-30 08:06:25.262612] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/tech/2017-07/28/c_1121392514.htm$$$$
+[2017-07-30 08:06:25.263173] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/tech/2017-07/28/c_1121392514.htm start$$$$
+[2017-07-30 08:06:25.264178] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:06:27.577496] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/mil/jzmymy2014/$$$$
+[2017-07-30 08:06:28.829840] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2016-04/14/c_128892032.htm$$$$
+[2017-07-30 08:06:31.983794] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/mil/zgjt/index.htm$$$$
+[2017-07-30 08:06:32.670064] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2016-10/31/c_129341898.htm$$$$
+[2017-07-30 08:06:35.973640] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/03/c_129644748.htm$$$$
+[2017-07-30 08:06:36.370366] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/shuhua/zx.htm$$$$
+[2017-07-30 08:06:40.038239] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/energy/hjbg.htm$$$$
+[2017-07-30 08:06:40.103682] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/05/c_129647381.htm$$$$
+[2017-07-30 08:06:43.256763] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/auto/qt.htm$$$$
+[2017-07-30 08:06:44.205880] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/11/c_129649724.htm$$$$
+[2017-07-30 08:06:46.872847] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/food/mslist.htm$$$$
+[2017-07-30 08:06:48.603639] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/13/c_129653704.htm$$$$
+[2017-07-30 08:06:50.261345] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gangao/gadj.htm$$$$
+[2017-07-30 08:06:52.418884] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/29/c_129667100.htm$$$$
+[2017-07-30 08:06:52.722877] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gangao/gtmrf.htm$$$$
+[2017-07-30 08:06:55.970839] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tw/2015/xhkt.htm$$$$
+[2017-07-30 08:06:56.199921] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667344.htm$$$$
+[2017-07-30 08:06:58.516192] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667345.htm$$$$
+[2017-07-30 08:06:58.987470] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/mil/video/index.htm$$$$
+[2017-07-30 08:07:02.310973] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667347.htm$$$$
+[2017-07-30 08:07:02.862847] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/talking/chinasafety/$$$$
+[2017-07-30 08:07:06.016734] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/video/xhwsp/index.htm$$$$
+[2017-07-30 08:07:06.801658] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm$$$$
+[2017-07-30 08:07:06.803377] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm$$$$
+[2017-07-30 08:07:06.803506] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm$$$$
+[2017-07-30 08:07:08.047690] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm$$$$
+[2017-07-30 08:07:08.048218] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm start$$$$
+[2017-07-30 08:07:08.049451] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:10.496316] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/local/qianan/index.html$$$$
+[2017-07-30 08:07:11.014679] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667040.htm$$$$
+[2017-07-30 08:07:11.016447] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667040.htm$$$$
+[2017-07-30 08:07:11.016574] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667040.htm$$$$
+[2017-07-30 08:07:11.328467] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667040.htm$$$$
+[2017-07-30 08:07:11.329028] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667040.htm start$$$$
+[2017-07-30 08:07:11.329966] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:14.266350] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/leaders/index.htm$$$$
+[2017-07-30 08:07:14.749063] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667171.htm$$$$
+[2017-07-30 08:07:14.750678] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667171.htm$$$$
+[2017-07-30 08:07:14.750804] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667171.htm$$$$
+[2017-07-30 08:07:15.075679] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667171.htm$$$$
+[2017-07-30 08:07:15.076327] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667171.htm start$$$$
+[2017-07-30 08:07:15.077410] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:17.918316] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/yuqing/2014/xbyqpx/index.htm$$$$
+[2017-07-30 08:07:17.970391] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667217.htm$$$$
+[2017-07-30 08:07:17.972086] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667217.htm$$$$
+[2017-07-30 08:07:17.972253] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667217.htm$$$$
+[2017-07-30 08:07:18.269391] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667217.htm$$$$
+[2017-07-30 08:07:18.269838] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667217.htm start$$$$
+[2017-07-30 08:07:18.270810] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:21.836200] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/2015/xhcppub/xhsfb/index.html$$$$
+[2017-07-30 08:07:21.907069] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667218.htm$$$$
+[2017-07-30 08:07:21.908747] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667218.htm$$$$
+[2017-07-30 08:07:21.908875] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667218.htm$$$$
+[2017-07-30 08:07:22.244494] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667218.htm$$$$
+[2017-07-30 08:07:22.244976] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667218.htm start$$$$
+[2017-07-30 08:07:22.245931] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:24.694743] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/video/xbsp/yccp/jkjm/index.htm$$$$
+[2017-07-30 08:07:25.699550] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667236.htm$$$$
+[2017-07-30 08:07:25.701229] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667236.htm$$$$
+[2017-07-30 08:07:25.701354] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667236.htm$$$$
+[2017-07-30 08:07:26.056319] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667236.htm$$$$
+[2017-07-30 08:07:26.056845] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667236.htm start$$$$
+[2017-07-30 08:07:26.058522] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:27.318519] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/video/2015/dxw_20150513/index.htm$$$$
+[2017-07-30 08:07:27.951123] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm$$$$
+[2017-07-30 08:07:27.952696] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm$$$$
+[2017-07-30 08:07:27.952823] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm$$$$
+[2017-07-30 08:07:28.284841] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm$$$$
+[2017-07-30 08:07:28.285249] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm start$$$$
+[2017-07-30 08:07:28.286116] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:29.720207] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/statics/sike/posts/2017/07/219521691.html$$$$
+[2017-07-30 08:07:32.236494] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm$$$$
+[2017-07-30 08:07:32.238953] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm$$$$
+[2017-07-30 08:07:32.239093] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm$$$$
+[2017-07-30 08:07:32.585698] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm$$$$
+[2017-07-30 08:07:32.586289] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm start$$$$
+[2017-07-30 08:07:32.587452] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:35.777218] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/house/2017-07-28/c_1121392079.htm$$$$
+[2017-07-30 08:07:39.302987] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/legal/2017-07/30/c_1121401221.htm$$$$
+[2017-07-30 08:07:43.034953] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/legal/2017-07/30/c_1121403017.htm$$$$
+[2017-07-30 08:07:47.298485] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm$$$$
+[2017-07-30 08:07:47.300368] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm$$$$
+[2017-07-30 08:07:47.300579] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm$$$$
+[2017-07-30 08:07:47.616991] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm$$$$
+[2017-07-30 08:07:47.617432] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm start$$$$
+[2017-07-30 08:07:47.618433] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:51.568386] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm$$$$
+[2017-07-30 08:07:51.570858] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm$$$$
+[2017-07-30 08:07:51.570995] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm$$$$
+[2017-07-30 08:07:51.895570] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm$$$$
+[2017-07-30 08:07:51.896109] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm start$$$$
+[2017-07-30 08:07:51.897197] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:55.437527] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm$$$$
+[2017-07-30 08:07:55.439282] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm$$$$
+[2017-07-30 08:07:55.439418] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm$$$$
+[2017-07-30 08:07:55.996370] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm$$$$
+[2017-07-30 08:07:55.996856] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm start$$$$
+[2017-07-30 08:07:55.997813] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:07:59.808746] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/22/c_1121361079.htm$$$$
+[2017-07-30 08:08:04.086261] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/28/c_1121397941.htm$$$$
+[2017-07-30 08:08:07.120938] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400711.htm$$$$
+[2017-07-30 08:08:11.322501] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400719.htm$$$$
+[2017-07-30 08:08:15.114492] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400725.htm$$$$
+[2017-07-30 08:08:18.879359] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400766.htm$$$$
+[2017-07-30 08:08:21.984449] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400782.htm$$$$
+[2017-07-30 08:08:25.481941] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/30/c_1121403243.htm$$$$
+[2017-07-30 08:08:29.752320] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm$$$$
+[2017-07-30 08:08:29.754333] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm$$$$
+[2017-07-30 08:08:29.754446] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm$$$$
+[2017-07-30 08:08:30.262355] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm$$$$
+[2017-07-30 08:08:30.262769] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm start$$$$
+[2017-07-30 08:08:30.263719] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:08:33.666508] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm$$$$
+[2017-07-30 08:08:33.668252] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm$$$$
+[2017-07-30 08:08:33.668365] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm$$$$
+[2017-07-30 08:08:34.160337] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm$$$$
+[2017-07-30 08:08:34.160811] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm start$$$$
+[2017-07-30 08:08:34.161692] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:08:35.687053] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm$$$$
+[2017-07-30 08:08:35.688746] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm$$$$
+[2017-07-30 08:08:35.688856] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm$$$$
+[2017-07-30 08:08:35.996586] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm$$$$
+[2017-07-30 08:08:35.997070] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm start$$$$
+[2017-07-30 08:08:35.998136] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:08:38.869224] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_1121402679.htm$$$$
+[2017-07-30 08:08:38.871169] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_1121402679.htm$$$$
+[2017-07-30 08:08:38.871324] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_1121402679.htm$$$$
+[2017-07-30 08:08:39.835961] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_1121402679.htm$$$$
+[2017-07-30 08:08:39.836402] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_1121402679.htm start$$$$
+[2017-07-30 08:08:39.837377] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:08:43.364639] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/xhsld/2017-06/15/c_1121145557.htm$$$$
+[2017-07-30 08:08:43.578255] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/$$$$
+[2017-07-30 08:08:46.658777] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129665798.htm$$$$
+[2017-07-30 08:08:46.943365] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://jiaju.news.cn/$$$$
+[2017-07-30 08:08:49.809484] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129665811.htm$$$$
+[2017-07-30 08:08:49.953764] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://bt.xinhuanet.com/$$$$
+[2017-07-30 08:08:50.051435] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://my.xinhuanet.com/$$$$
+[2017-07-30 08:08:50.167053] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://us.xinhuanet.com/$$$$
+[2017-07-30 08:08:51.157468] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/air/$$$$
+[2017-07-30 08:08:53.325692] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129665831.htm$$$$
+[2017-07-30 08:08:53.550647] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://wx.xinhuanet.com/$$$$
+[2017-07-30 08:08:53.661285] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://csj.xinhuanet.com/$$$$
+[2017-07-30 08:08:53.844179] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/dy.htm$$$$
+[2017-07-30 08:08:55.014357] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/expo/$$$$
+[2017-07-30 08:08:57.660563] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129665943.htm$$$$
+[2017-07-30 08:08:57.936812] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/zt.htm$$$$
+[2017-07-30 08:08:58.840467] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/zhcs/$$$$
+[2017-07-30 08:09:01.395898] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129666424.htm$$$$
+[2017-07-30 08:09:01.950499] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/xhsld/$$$$
+[2017-07-30 08:09:04.686920] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129667359.htm$$$$
+[2017-07-30 08:09:04.821126] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.gd.xinhuanet.com/$$$$
+[2017-07-30 08:09:05.722485] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.gx.xinhuanet.com/$$$$
+[2017-07-30 08:09:05.862554] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.gz.xinhuanet.com/$$$$
+[2017-07-30 08:09:06.494703] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sc.xinhuanet.com/$$$$
+[2017-07-30 08:09:09.113059] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129667379.htm$$$$
+[2017-07-30 08:09:10.476923] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/cmzs.htm$$$$
+[2017-07-30 08:09:12.735792] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.hq.xinhuanet.com/$$$$
+[2017-07-30 08:09:12.952117] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129667394.htm$$$$
+[2017-07-30 08:09:13.376691] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.hlj.xinhuanet.com/$$$$
+[2017-07-30 08:09:14.727751] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/finance/$$$$
+[2017-07-30 08:09:17.116518] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/health/2017-07/29/c_1121399098.htm$$$$
+[2017-07-30 08:09:17.118480] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/health/2017-07/29/c_1121399098.htm$$$$
+[2017-07-30 08:09:17.118647] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/health/2017-07/29/c_1121399098.htm$$$$
+[2017-07-30 08:09:18.036903] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/health/2017-07/29/c_1121399098.htm$$$$
+[2017-07-30 08:09:18.037400] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/health/2017-07/29/c_1121399098.htm start$$$$
+[2017-07-30 08:09:18.038431] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:09:18.965065] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/health/2017-07/30/c_1121402091.htm$$$$
+[2017-07-30 08:09:18.966764] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/health/2017-07/30/c_1121402091.htm$$$$
+[2017-07-30 08:09:18.966875] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/health/2017-07/30/c_1121402091.htm$$$$
+[2017-07-30 08:09:20.005027] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/health/2017-07/30/c_1121402091.htm$$$$
+[2017-07-30 08:09:20.005457] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/health/2017-07/30/c_1121402091.htm start$$$$
+[2017-07-30 08:09:20.006316] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:09:20.109496] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/$$$$
+[2017-07-30 08:09:20.695048] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/health/2017-07/30/c_1121402093.htm$$$$
+[2017-07-30 08:09:20.696891] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/health/2017-07/30/c_1121402093.htm$$$$
+[2017-07-30 08:09:20.697043] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/health/2017-07/30/c_1121402093.htm$$$$
+[2017-07-30 08:09:21.067759] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/health/2017-07/30/c_1121402093.htm$$$$
+[2017-07-30 08:09:21.068186] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/health/2017-07/30/c_1121402093.htm start$$$$
+[2017-07-30 08:09:21.069081] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:09:22.528076] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.cq.xinhuanet.com/$$$$
+[2017-07-30 08:09:22.666819] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/science/$$$$
+[2017-07-30 08:09:25.184575] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/health/2017-07/30/c_1121402119.htm$$$$
+[2017-07-30 08:09:25.186350] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/health/2017-07/30/c_1121402119.htm$$$$
+[2017-07-30 08:09:25.186478] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/health/2017-07/30/c_1121402119.htm$$$$
+[2017-07-30 08:09:25.529760] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/health/2017-07/30/c_1121402119.htm$$$$
+[2017-07-30 08:09:25.530181] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/health/2017-07/30/c_1121402119.htm start$$$$
+[2017-07-30 08:09:25.531039] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:09:25.765217] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/lianzheng/$$$$
+[2017-07-30 08:09:27.220684] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/health/2017-07/30/c_1121402306.htm$$$$
+[2017-07-30 08:09:27.222352] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/health/2017-07/30/c_1121402306.htm$$$$
+[2017-07-30 08:09:27.222480] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/health/2017-07/30/c_1121402306.htm$$$$
+[2017-07-30 08:09:27.511664] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/health/2017-07/30/c_1121402306.htm$$$$
+[2017-07-30 08:09:27.512166] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/health/2017-07/30/c_1121402306.htm start$$$$
+[2017-07-30 08:09:27.513096] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:09:29.375001] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/auto/dg.htm$$$$
+[2017-07-30 08:09:30.625080] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/renshi/2017-07/29/c_1121400512.htm$$$$
+[2017-07-30 08:09:30.627314] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/renshi/2017-07/29/c_1121400512.htm$$$$
+[2017-07-30 08:09:30.627429] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/renshi/2017-07/29/c_1121400512.htm$$$$
+[2017-07-30 08:09:30.881785] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/renshi/2017-07/29/c_1121400512.htm$$$$
+[2017-07-30 08:09:30.882229] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/renshi/2017-07/29/c_1121400512.htm start$$$$
+[2017-07-30 08:09:30.883124] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:09:33.334280] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/auto/xc.htm$$$$
+[2017-07-30 08:09:34.661102] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/shuhua/2017-07/29/c_1121398492.htm$$$$
+[2017-07-30 08:09:37.298057] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/shuhua/2017-07/29/c_1121398769.htm$$$$
+[2017-07-30 08:09:37.773686] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/edu/ztc.htm$$$$
+[2017-07-30 08:09:40.842491] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/money/dj.htm$$$$
+[2017-07-30 08:09:41.241300] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/shuhua/2017-07/29/c_1121398885.htm$$$$
+[2017-07-30 08:09:43.556896] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tech/Eyt.htm$$$$
+[2017-07-30 08:09:43.931905] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/caipiao/2017-07/30/c_1121401570.htm$$$$
+[2017-07-30 08:09:47.751224] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/caipiao/2017-07/30/c_1121401609.htm$$$$
+[2017-07-30 08:09:48.071177] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tw/index.htm$$$$
+[2017-07-30 08:09:50.942900] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/caipiao/2017-07/30/c_1121401697.htm$$$$
+[2017-07-30 08:09:52.366850] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/mil/index.htm$$$$
+[2017-07-30 08:09:54.922875] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tech/hlwj.htm$$$$
+[2017-07-30 08:09:55.104687] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121401082.htm$$$$
+[2017-07-30 08:09:56.709920] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/gd.htm$$$$
+[2017-07-30 08:09:56.988777] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/city/zt.htm$$$$
+[2017-07-30 08:09:57.452495] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121401132.htm$$$$
+[2017-07-30 08:09:59.501757] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121402459.htm$$$$
+[2017-07-30 08:10:00.473054] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gdtt/index.htm$$$$
+[2017-07-30 08:10:03.258158] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121402563.htm$$$$
+[2017-07-30 08:10:03.637716] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/money/jrjs.htm$$$$
+[2017-07-30 08:10:03.921937] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/city/stcs.htm$$$$
+[2017-07-30 08:10:06.827029] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121402587.htm$$$$
+[2017-07-30 08:10:09.924956] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/asia/index.htm$$$$
+[2017-07-30 08:10:10.848460] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/money/index.htm$$$$
+[2017-07-30 08:10:11.046939] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_129667585.htm$$$$
+[2017-07-30 08:10:11.048815] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_129667585.htm$$$$
+[2017-07-30 08:10:11.048978] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_129667585.htm$$$$
+[2017-07-30 08:10:12.101268] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_129667585.htm$$$$
+[2017-07-30 08:10:12.101701] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_129667585.htm start$$$$
+[2017-07-30 08:10:12.102667] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:10:12.136185] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xinhuanet.com/silkroad/index.htm$$$$
+[2017-07-30 08:10:12.451870] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/xhwq/index.htm$$$$
+[2017-07-30 08:10:14.964600] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/index.htm$$$$
+[2017-07-30 08:10:15.239155] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/27/c_1121268361.htm$$$$
+[2017-07-30 08:10:17.065656] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/finance/xsb.htm$$$$
+[2017-07-30 08:10:18.245589] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/29/c_1121398518.htm$$$$
+[2017-07-30 08:10:18.314783] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.jx.xinhuanet.com/3g90zn/index.html$$$$
+[2017-07-30 08:10:18.604666] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/rs.htm$$$$
+[2017-07-30 08:10:22.570402] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/29/c_1121398665.htm$$$$
+[2017-07-30 08:10:22.684049] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/2017-07/30/c_1121401426.htm$$$$
+[2017-07-30 08:10:23.067223] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/xxjxs/$$$$
+[2017-07-30 08:10:25.840248] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/forum/sqgj/wmqa.htm$$$$
+[2017-07-30 08:10:26.336833] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/video/index.htm$$$$
+[2017-07-30 08:10:26.596472] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xuan.news.cn/zt/iframe_huiminlimin.html$$$$
+[2017-07-30 08:10:26.888245] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/29/c_1121398689.htm$$$$
+[2017-07-30 08:10:26.930652] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/2017-07/30/c_1121401737.htm$$$$
+[2017-07-30 08:10:27.260784] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141076113/1.html$$$$
+[2017-07-30 08:10:28.803604] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/world/index.htm$$$$
+[2017-07-30 08:10:30.100726] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/forum/sqgj/xhdc.htm$$$$
+[2017-07-30 08:10:30.122250] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141084983/1.html$$$$
+[2017-07-30 08:10:30.169128] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://us.xinhuanet.com/2017-07/30/c_129667041.htm$$$$
+[2017-07-30 08:10:30.585654] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/30/c_1121403188.htm$$$$
+[2017-07-30 08:10:30.901074] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/2017-07/30/c_1121401828.htm$$$$
+[2017-07-30 08:10:33.227847] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/yuqing/sjfb.htm$$$$
+[2017-07-30 08:10:33.970774] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141085599/1.html$$$$
+[2017-07-30 08:10:34.443189] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://us.xinhuanet.com/2017-07/30/c_129667337.htm$$$$
+[2017-07-30 08:10:34.816265] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/27/c_1121391548.htm$$$$
+[2017-07-30 08:10:34.817516] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/27/c_1121391548.htm$$$$
+[2017-07-30 08:10:34.817680] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/27/c_1121391548.htm$$$$
+[2017-07-30 08:10:35.698997] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/27/c_1121391548.htm$$$$
+[2017-07-30 08:10:35.699402] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/27/c_1121391548.htm start$$$$
+[2017-07-30 08:10:35.700315] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:10:35.804509] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/video/gjxc/index.htm$$$$
+[2017-07-30 08:10:37.020197] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm$$$$
+[2017-07-30 08:10:37.021537] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm$$$$
+[2017-07-30 08:10:37.021692] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm$$$$
+[2017-07-30 08:10:37.251813] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm$$$$
+[2017-07-30 08:10:37.252208] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm start$$$$
+[2017-07-30 08:10:37.253083] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:10:37.468030] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://us.xinhuanet.com/2017-07/30/c_129667509.htm$$$$
+[2017-07-30 08:10:37.548012] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/yuqing/yqbb.htm$$$$
+[2017-07-30 08:10:40.344760] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/29/c_1121400540.htm$$$$
+[2017-07-30 08:10:40.346683] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/29/c_1121400540.htm$$$$
+[2017-07-30 08:10:40.346834] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/29/c_1121400540.htm$$$$
+[2017-07-30 08:10:41.051605] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/29/c_1121400540.htm$$$$
+[2017-07-30 08:10:41.052226] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/29/c_1121400540.htm start$$$$
+[2017-07-30 08:10:41.053293] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:10:42.005322] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/jj90/index.htm$$$$
+[2017-07-30 08:10:42.060942] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/caipiao/cpkp.htm$$$$
+[2017-07-30 08:10:42.136468] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/swxzqsz/$$$$
+[2017-07-30 08:10:44.037572] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/29/c_1121400609.htm$$$$
+[2017-07-30 08:10:44.039468] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/29/c_1121400609.htm$$$$
+[2017-07-30 08:10:44.039622] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/29/c_1121400609.htm$$$$
+[2017-07-30 08:10:44.402115] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/29/c_1121400609.htm$$$$
+[2017-07-30 08:10:44.402935] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/29/c_1121400609.htm start$$$$
+[2017-07-30 08:10:44.404172] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:10:45.724802] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/cyzdjxs2017/index.htm$$$$
+[2017-07-30 08:10:46.556891] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/caipiao/cpyw.htm$$$$
+[2017-07-30 08:10:47.966551] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/29/c_1121400743.htm$$$$
+[2017-07-30 08:10:47.967619] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/29/c_1121400743.htm$$$$
+[2017-07-30 08:10:47.967746] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/29/c_1121400743.htm$$$$
+[2017-07-30 08:10:48.224148] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/29/c_1121400743.htm$$$$
+[2017-07-30 08:10:48.224477] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/29/c_1121400743.htm start$$$$
+[2017-07-30 08:10:48.225361] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:10:48.330038] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121388580.htm$$$$
+[2017-07-30 08:10:50.776554] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121389144.htm$$$$
+[2017-07-30 08:10:50.990403] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/caipiao/sjcp.htm$$$$
+[2017-07-30 08:10:51.965159] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/29/c_1121400846.htm$$$$
+[2017-07-30 08:10:51.967108] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/29/c_1121400846.htm$$$$
+[2017-07-30 08:10:51.967234] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/29/c_1121400846.htm$$$$
+[2017-07-30 08:10:52.327643] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/29/c_1121400846.htm$$$$
+[2017-07-30 08:10:52.328084] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/29/c_1121400846.htm start$$$$
+[2017-07-30 08:10:52.328964] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:10:53.796453] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gangao/index.htm$$$$
+[2017-07-30 08:10:54.851956] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121389211.htm$$$$
+[2017-07-30 08:10:55.458012] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/29/c_1121400987.htm$$$$
+[2017-07-30 08:10:55.459237] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/29/c_1121400987.htm$$$$
+[2017-07-30 08:10:55.459389] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/29/c_1121400987.htm$$$$
+[2017-07-30 08:10:56.198488] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/29/c_1121400987.htm$$$$
+[2017-07-30 08:10:56.198877] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/29/c_1121400987.htm start$$$$
+[2017-07-30 08:10:56.199717] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:10:56.739229] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gongyi/index.htm$$$$
+[2017-07-30 08:10:58.100480] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121389896.htm$$$$
+[2017-07-30 08:10:59.678253] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm$$$$
+[2017-07-30 08:10:59.680272] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm$$$$
+[2017-07-30 08:10:59.680424] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm$$$$
+[2017-07-30 08:11:00.076967] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm$$$$
+[2017-07-30 08:11:00.077411] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm start$$$$
+[2017-07-30 08:11:00.078400] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:11:00.459148] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/shuhua/index.htm$$$$
+[2017-07-30 08:11:02.997233] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/caipiao/index.htm$$$$
+[2017-07-30 08:11:03.674200] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm$$$$
+[2017-07-30 08:11:03.674867] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm$$$$
+[2017-07-30 08:11:03.674992] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm$$$$
+[2017-07-30 08:11:03.753833] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm$$$$
+[2017-07-30 08:11:03.754063] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm start$$$$
+[2017-07-30 08:11:03.754725] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:11:06.684737] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121401305.htm$$$$
+[2017-07-30 08:11:06.687067] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121401305.htm$$$$
+[2017-07-30 08:11:06.687183] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121401305.htm$$$$
+[2017-07-30 08:11:07.100509] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121401305.htm$$$$
+[2017-07-30 08:11:07.101033] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121401305.htm start$$$$
+[2017-07-30 08:11:07.101996] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:11:07.113568] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fashion/index.htm$$$$
+[2017-07-30 08:11:10.990866] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121401326.htm$$$$
+[2017-07-30 08:11:10.993067] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121401326.htm$$$$
+[2017-07-30 08:11:10.993193] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121401326.htm$$$$
+[2017-07-30 08:11:11.411518] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121401326.htm$$$$
+[2017-07-30 08:11:11.411936] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121401326.htm start$$$$
+[2017-07-30 08:11:11.412862] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:11:11.654472] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/dujia.htm$$$$
+[2017-07-30 08:11:14.687695] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/house/bj/xhyy.htm$$$$
+[2017-07-30 08:11:14.997599] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121401909.htm$$$$
+[2017-07-30 08:11:14.998667] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121401909.htm$$$$
+[2017-07-30 08:11:14.998782] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121401909.htm$$$$
+[2017-07-30 08:11:15.689493] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121401909.htm$$$$
+[2017-07-30 08:11:15.689908] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121401909.htm start$$$$
+[2017-07-30 08:11:15.690873] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:11:19.048983] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/comments/index.htm$$$$
+[2017-07-30 08:11:19.364761] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm$$$$
+[2017-07-30 08:11:19.366652] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm$$$$
+[2017-07-30 08:11:19.366818] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm$$$$
+[2017-07-30 08:11:19.738212] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm$$$$
+[2017-07-30 08:11:19.738568] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm start$$$$
+[2017-07-30 08:11:19.739378] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:11:22.072785] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/caiyan.htm$$$$
+[2017-07-30 08:11:23.481442] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/sjxw/2017-07/24/c_129662427.htm$$$$
+[2017-07-30 08:11:25.594052] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/forum/sqgj/dzf.htm$$$$
+[2017-07-30 08:11:25.800096] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/yuqing/2014/xbyqpx/zhuanti/02.htm$$$$
+[2017-07-30 08:11:27.674516] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/sjxw/2017-07/25/c_129663142.htm$$$$
+[2017-07-30 08:11:29.896349] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/overseas/index.htm$$$$
+[2017-07-30 08:11:30.015157] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/yuqing/2014/xbyqpx/zhuanti/03.htm$$$$
+[2017-07-30 08:11:31.974942] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/sjxw/2017-07/26/c_129663842.htm$$$$
+[2017-07-30 08:11:33.006867] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/info/spsy/index.htm$$$$
+[2017-07-30 08:11:35.796150] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/world/jrch/hqlft.htm$$$$
+[2017-07-30 08:11:36.296432] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/sjxw/2017-07/28/c_129666352.htm$$$$
+[2017-07-30 08:11:39.204826] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/sjxw/2017-07/30/c_1121402488.htm$$$$
+[2017-07-30 08:11:39.975753] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/world/jzzl/index.htm$$$$
+[2017-07-30 08:11:43.547407] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-05/18/c_129606336.htm$$$$
+[2017-07-30 08:11:44.001189] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/jplm/bcxc.htm$$$$
+[2017-07-30 08:11:46.073049] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-05/25/c_129617758.htm$$$$
+[2017-07-30 08:11:48.444175] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/live/20170729a/index.htm$$$$
+[2017-07-30 08:11:50.533737] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/29/c_129667084.htm$$$$
+[2017-07-30 08:11:52.625761] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/zhuanti/bt/index.htm$$$$
+[2017-07-30 08:11:54.250610] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667265.htm$$$$
+[2017-07-30 08:11:55.615601] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/2015/xhcppub/xhsds/index.html$$$$
+[2017-07-30 08:11:58.349708] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667416.htm$$$$
+[2017-07-30 08:11:59.833810] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/zglzxsj2016/index.htm$$$$
+[2017-07-30 08:12:01.732085] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667635.htm$$$$
+[2017-07-30 08:12:03.354078] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/2015/xhcppub/xhsqmbd/index.html$$$$
+[2017-07-30 08:12:06.165082] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667895.htm$$$$
+[2017-07-30 08:12:07.458419] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/2015/xhcppub/xhshwsjpt/index.htm$$$$
+[2017-07-30 08:12:09.848194] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/tw/2017-07/29/c_1121400116.htm$$$$
+[2017-07-30 08:12:13.063449] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/tw/2017-07/29/c_1121400945.htm$$$$
+[2017-07-30 08:12:15.349760] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/tw/2017-07/29/c_1121400989.htm$$$$
+[2017-07-30 08:12:19.824382] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/city/2017-07/28/c_129665790.htm$$$$
+[2017-07-30 08:12:23.729944] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/city/2017-07/28/c_129665791.htm$$$$
+[2017-07-30 08:12:27.482207] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/city/2017-07/28/c_129666000.htm$$$$
+[2017-07-30 08:12:30.929565] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm$$$$
+[2017-07-30 08:12:30.931351] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm$$$$
+[2017-07-30 08:12:30.931472] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm$$$$
+[2017-07-30 08:12:31.306212] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm$$$$
+[2017-07-30 08:12:31.306719] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm start$$$$
+[2017-07-30 08:12:31.307730] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:12:35.149430] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/food/2017-07/30/c_1121401468.htm$$$$
+[2017-07-30 08:12:35.151342] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/food/2017-07/30/c_1121401468.htm$$$$
+[2017-07-30 08:12:35.151459] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/food/2017-07/30/c_1121401468.htm$$$$
+[2017-07-30 08:12:36.167994] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/food/2017-07/30/c_1121401468.htm$$$$
+[2017-07-30 08:12:36.168585] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/food/2017-07/30/c_1121401468.htm start$$$$
+[2017-07-30 08:12:36.169683] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:12:39.189008] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm$$$$
+[2017-07-30 08:12:39.190893] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm$$$$
+[2017-07-30 08:12:39.190993] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm$$$$
+[2017-07-30 08:12:40.113035] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm$$$$
+[2017-07-30 08:12:40.113440] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm start$$$$
+[2017-07-30 08:12:40.114318] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:12:43.604698] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/food/2017-07/30/c_1121403081.htm$$$$
+[2017-07-30 08:12:43.606758] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/food/2017-07/30/c_1121403081.htm$$$$
+[2017-07-30 08:12:43.606859] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/food/2017-07/30/c_1121403081.htm$$$$
+[2017-07-30 08:12:44.094529] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/food/2017-07/30/c_1121403081.htm$$$$
+[2017-07-30 08:12:44.095182] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/food/2017-07/30/c_1121403081.htm start$$$$
+[2017-07-30 08:12:44.096202] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:12:47.666560] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/legal/2017-07/30/c_129667326.htm$$$$
+[2017-07-30 08:12:51.360871] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/money/2017-07/29/c_129666918.htm$$$$
+[2017-07-30 08:12:55.324857] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/25/c_129663505.htm$$$$
+[2017-07-30 08:12:58.924401] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/tech/2017-07/30/c_1121402474.htm$$$$
+[2017-07-30 08:12:58.926413] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/tech/2017-07/30/c_1121402474.htm$$$$
+[2017-07-30 08:12:58.926516] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/tech/2017-07/30/c_1121402474.htm$$$$
+[2017-07-30 08:12:59.966656] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/tech/2017-07/30/c_1121402474.htm$$$$
+[2017-07-30 08:12:59.967239] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/tech/2017-07/30/c_1121402474.htm start$$$$
+[2017-07-30 08:12:59.968429] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:13:03.342319] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/tech/2017-07/30/c_1121402513.htm$$$$
+[2017-07-30 08:13:03.344367] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/tech/2017-07/30/c_1121402513.htm$$$$
+[2017-07-30 08:13:03.344468] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/tech/2017-07/30/c_1121402513.htm$$$$
+[2017-07-30 08:13:03.647984] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/tech/2017-07/30/c_1121402513.htm$$$$
+[2017-07-30 08:13:03.648427] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/tech/2017-07/30/c_1121402513.htm start$$$$
+[2017-07-30 08:13:03.649309] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:13:07.536844] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2016-09/30/c_129306601.htm$$$$
+[2017-07-30 08:13:11.028486] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/20/c_129659164.htm$$$$
+[2017-07-30 08:13:15.306991] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/29/c_129667102.htm$$$$
+[2017-07-30 08:13:19.690544] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667341.htm$$$$
+[2017-07-30 08:13:23.481256] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667342.htm$$$$
+[2017-07-30 08:13:27.354526] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667037.htm$$$$
+[2017-07-30 08:13:27.357441] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667037.htm$$$$
+[2017-07-30 08:13:27.357562] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667037.htm$$$$
+[2017-07-30 08:13:27.681609] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667037.htm$$$$
+[2017-07-30 08:13:27.682050] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667037.htm start$$$$
+[2017-07-30 08:13:27.683043] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:13:31.719944] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667042.htm$$$$
+[2017-07-30 08:13:31.722050] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667042.htm$$$$
+[2017-07-30 08:13:31.722170] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667042.htm$$$$
+[2017-07-30 08:13:32.133029] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667042.htm$$$$
+[2017-07-30 08:13:32.133430] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667042.htm start$$$$
+[2017-07-30 08:13:32.134363] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:13:36.150714] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm$$$$
+[2017-07-30 08:13:36.152748] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm$$$$
+[2017-07-30 08:13:36.152872] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm$$$$
+[2017-07-30 08:13:36.458539] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm$$$$
+[2017-07-30 08:13:36.459085] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm start$$$$
+[2017-07-30 08:13:36.460224] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:13:39.512434] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667143.htm$$$$
+[2017-07-30 08:13:39.514493] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667143.htm$$$$
+[2017-07-30 08:13:39.514624] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667143.htm$$$$
+[2017-07-30 08:13:39.823176] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667143.htm$$$$
+[2017-07-30 08:13:39.823640] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667143.htm start$$$$
+[2017-07-30 08:13:39.824500] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:13:42.430637] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm$$$$
+[2017-07-30 08:13:42.432955] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm$$$$
+[2017-07-30 08:13:42.433081] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm$$$$
+[2017-07-30 08:13:42.714873] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm$$$$
+[2017-07-30 08:13:42.715267] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm start$$$$
+[2017-07-30 08:13:42.716157] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:13:46.357037] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667224.htm$$$$
+[2017-07-30 08:13:46.359850] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667224.htm$$$$
+[2017-07-30 08:13:46.359970] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667224.htm$$$$
+[2017-07-30 08:13:46.681088] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667224.htm$$$$
+[2017-07-30 08:13:46.681500] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667224.htm start$$$$
+[2017-07-30 08:13:46.682479] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:13:50.139234] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667304.htm$$$$
+[2017-07-30 08:13:50.141173] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667304.htm$$$$
+[2017-07-30 08:13:50.141272] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667304.htm$$$$
+[2017-07-30 08:13:50.452691] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667304.htm$$$$
+[2017-07-30 08:13:50.453102] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667304.htm start$$$$
+[2017-07-30 08:13:50.453965] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:13:54.225295] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/gangao/2017-07/29/c_129666984.htm$$$$
+[2017-07-30 08:13:57.282819] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/gangao/2017-07/30/c_129667206.htm$$$$
+[2017-07-30 08:14:01.160208] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/house/2017-07-28/c_1121392212.htm$$$$
+[2017-07-30 08:14:04.967946] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/house/2017-07-28/c_1121392233.htm$$$$
+[2017-07-30 08:14:09.297258] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/house/2017-07-30/c_1121401964.htm$$$$
+[2017-07-30 08:14:13.206779] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/house/2017-07-30/c_1121401978.htm$$$$
+[2017-07-30 08:14:16.619495] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121401023.htm$$$$
+[2017-07-30 08:14:16.621257] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121401023.htm$$$$
+[2017-07-30 08:14:16.621384] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121401023.htm$$$$
+[2017-07-30 08:14:17.137738] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121401023.htm$$$$
+[2017-07-30 08:14:17.138147] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121401023.htm start$$$$
+[2017-07-30 08:14:17.139162] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:14:20.856393] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121401097.htm$$$$
+[2017-07-30 08:14:20.858780] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121401097.htm$$$$
+[2017-07-30 08:14:20.858905] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121401097.htm$$$$
+[2017-07-30 08:14:21.186759] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121401097.htm$$$$
+[2017-07-30 08:14:21.187247] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121401097.htm start$$$$
+[2017-07-30 08:14:21.188155] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:14:25.337577] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm$$$$
+[2017-07-30 08:14:25.340857] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm$$$$
+[2017-07-30 08:14:25.340961] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm$$$$
+[2017-07-30 08:14:25.637969] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm$$$$
+[2017-07-30 08:14:25.638380] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm start$$$$
+[2017-07-30 08:14:25.639292] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:14:28.784755] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121402394.htm$$$$
+[2017-07-30 08:14:28.786436] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121402394.htm$$$$
+[2017-07-30 08:14:28.786535] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121402394.htm$$$$
+[2017-07-30 08:14:29.069483] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121402394.htm$$$$
+[2017-07-30 08:14:29.069871] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121402394.htm start$$$$
+[2017-07-30 08:14:29.070710] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:14:30.753031] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121402732.htm$$$$
+[2017-07-30 08:14:30.754650] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121402732.htm$$$$
+[2017-07-30 08:14:30.754748] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121402732.htm$$$$
+[2017-07-30 08:14:31.038103] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121402732.htm$$$$
+[2017-07-30 08:14:31.038549] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121402732.htm start$$$$
+[2017-07-30 08:14:31.039342] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:14:34.730956] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm$$$$
+[2017-07-30 08:14:34.732738] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm$$$$
+[2017-07-30 08:14:34.732840] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm$$$$
+[2017-07-30 08:14:35.046964] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm$$$$
+[2017-07-30 08:14:35.047376] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm start$$$$
+[2017-07-30 08:14:35.048348] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:14:39.090586] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121402974.htm$$$$
+[2017-07-30 08:14:39.092277] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121402974.htm$$$$
+[2017-07-30 08:14:39.092377] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121402974.htm$$$$
+[2017-07-30 08:14:39.470265] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121402974.htm$$$$
+[2017-07-30 08:14:39.470669] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121402974.htm start$$$$
+[2017-07-30 08:14:39.471597] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:14:42.709774] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/18/c_1121340943.htm$$$$
+[2017-07-30 08:14:46.882211] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/28/c_1121397682.htm$$$$
+[2017-07-30 08:14:50.797927] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400667.htm$$$$
+[2017-07-30 08:14:54.586593] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400675.htm$$$$
+[2017-07-30 08:14:58.833462] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400762.htm$$$$
+[2017-07-30 08:15:02.038683] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/30/c_1121402145.htm$$$$
+[2017-07-30 08:15:06.965962] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/30/c_1121402377.htm$$$$
+[2017-07-30 08:15:07.096747] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tw/$$$$
+[2017-07-30 08:15:09.748401] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/mil/$$$$
+[2017-07-30 08:15:10.780963] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://vodfile7.news.cn/data/cdn_transfer/04/0F/04ee73c59a5ff0a44fe9d8dbab3812670125f20f.mp4$$$$
+[2017-07-30 08:15:11.030734] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/30/c_1121402593.htm$$$$
+[2017-07-30 08:15:12.969813] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/info/$$$$
+[2017-07-30 08:15:15.279278] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/30/c_1121402990.htm$$$$
+[2017-07-30 08:15:15.392197] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://th.news.cn/xhsjzktg.htm$$$$
+[2017-07-30 08:15:17.257405] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/world/$$$$
+[2017-07-30 08:15:19.349285] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/30/c_1121402991.htm$$$$
+[2017-07-30 08:15:19.448390] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://education.news.cn/2015-05/26/c_127842203.htm$$$$
+[2017-07-30 08:15:21.154562] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gangao/$$$$
+[2017-07-30 08:15:23.036768] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/30/c_1121403049.htm$$$$
+[2017-07-30 08:15:25.517558] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fashion/$$$$
+[2017-07-30 08:15:26.126506] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.ah.xinhuanet.com/2016-04/08/c_1118568146.htm$$$$
+[2017-07-30 08:15:26.195322] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.tj.xinhuanet.com/jizhe/20160527/3169149_c.html$$$$
+[2017-07-30 08:15:26.611125] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/30/c_1121403139.htm$$$$
+[2017-07-30 08:15:29.194306] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/xhll.htm$$$$
+[2017-07-30 08:15:30.330452] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/30/c_1121403181.htm$$$$
+[2017-07-30 08:15:34.210789] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_1121401068.htm$$$$
+[2017-07-30 08:15:34.212734] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_1121401068.htm$$$$
+[2017-07-30 08:15:34.212835] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_1121401068.htm$$$$
+[2017-07-30 08:15:34.505588] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_1121401068.htm$$$$
+[2017-07-30 08:15:34.505974] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_1121401068.htm start$$$$
+[2017-07-30 08:15:34.506918] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:15:38.337382] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129666006.htm$$$$
+[2017-07-30 08:15:40.619828] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129666139.htm$$$$
+[2017-07-30 08:15:43.640499] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/energy/2017-07/28/c_1121395363.htm$$$$
+[2017-07-30 08:15:47.971456] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129666347.htm$$$$
+[2017-07-30 08:15:51.720898] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129667349.htm$$$$
+[2017-07-30 08:15:55.668221] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129667357.htm$$$$
+[2017-07-30 08:25:48.074700] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/$$$$
+[2017-07-30 08:25:48.373581] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/$$$$
+[2017-07-30 08:25:48.648987] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/money/2017-07/06/c_129648684.htm$$$$
+[2017-07-30 08:25:48.743020] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/2017KaoLaGermany/index.html?from=singlemessage&isappinstalled=0$$$$
+[2017-07-30 08:25:48.753232] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://cae.xinhuanet.com$$$$
+[2017-07-30 08:25:48.813084] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://german.xinhuanet.com$$$$
+[2017-07-30 08:25:48.879632] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://russian.news.cn/$$$$
+[2017-07-30 08:25:48.889897] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://spanish.xinhuanet.com/$$$$
+[2017-07-30 08:25:48.945056] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://french.news.cn/$$$$
+[2017-07-30 08:25:49.051302] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.bj.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.071802] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://jp.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.082152] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://kr.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.092910] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://herald.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.103190] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://portuguese.xinhuanet.com/index.htm$$$$
+[2017-07-30 08:25:49.168151] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.js.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.178708] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.ln.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.189569] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sh.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.201270] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sx.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.212686] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.gx.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.223998] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.hq.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.258877] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.fj.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.269700] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.cq.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.280057] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.hn.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.290451] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.hb.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.300853] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.tj.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.310896] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.he.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.321192] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://arabic.news.cn/$$$$
+[2017-07-30 08:25:49.331689] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://uyghur.news.cn/$$$$
+[2017-07-30 08:25:49.341856] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://mrdx.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.352326] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://chinesejournalist.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.363046] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xizang.news.cn/$$$$
+[2017-07-30 08:25:49.489025] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.gd.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.532251] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.ha.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.553239] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.jx.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.584458] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://tibet.news.cn/$$$$
+[2017-07-30 08:25:49.605405] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.gs.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.616629] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sd.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.626665] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.gz.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.637927] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://mongolian.news.cn/$$$$
+[2017-07-30 08:25:49.648073] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.ah.xinhuanet.com/$$$$
+[2017-07-30 08:25:49.886472] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://education.news.cn/$$$$
+[2017-07-30 08:25:50.340682] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.jl.xinhuanet.com/$$$$
+[2017-07-30 08:25:50.780632] INFO: 中搜Demo--xinhuanet: $$$$开始解析：https://mail.xinhuanet.com/$$$$
+[2017-07-30 08:25:50.798590] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://us.xinhuanet.com/$$$$
+[2017-07-30 08:25:51.210539] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://my.xinhuanet.com/$$$$
+[2017-07-30 08:25:51.221010] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.nx.xinhuanet.com/$$$$
+[2017-07-30 08:25:51.231421] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sn.xinhuanet.com/$$$$
+[2017-07-30 08:25:51.241954] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.qh.xinhuanet.com/$$$$
+[2017-07-30 08:25:51.252157] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.yn.xinhuanet.com/$$$$
+[2017-07-30 08:25:51.262301] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xj.xinhuanet.com/$$$$
+[2017-07-30 08:25:51.282787] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.sc.xinhuanet.com/$$$$
+[2017-07-30 08:25:51.293094] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/$$$$
+[2017-07-30 08:25:52.482301] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://big5.xinhuanet.com/gate/big5/www.news.cn/$$$$
+[2017-07-30 08:25:52.505970] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://travel.news.cn/$$$$
+[2017-07-30 08:25:53.235303] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn$$$$
+[2017-07-30 08:25:54.288403] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xinhuanet.com/silkroad/index.htm$$$$
+[2017-07-30 08:25:54.298976] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/tank$$$$
+[2017-07-30 08:25:55.364064] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xuan.news.cn/zt/iframe_huiminlimin.html$$$$
+[2017-07-30 08:25:55.862265] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/asia/index.htm$$$$
+[2017-07-30 08:25:56.366093] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/english/$$$$
+[2017-07-30 08:25:57.781877] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/xhsd/index.htm$$$$
+[2017-07-30 08:25:59.155955] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://mt.news.cn/$$$$
+[2017-07-30 08:25:59.167336] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://silkroad.news.cn/$$$$
+[2017-07-30 08:25:59.611959] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/wzdt2014.htm$$$$
+[2017-07-30 08:25:59.635788] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/statics/sike/posts/2017/07/219521934.html$$$$
+[2017-07-30 08:26:00.802646] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/forum/sqgj/wmqa.htm$$$$
+[2017-07-30 08:26:01.748804] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/2016zgkhllzxtp/index.html$$$$
+[2017-07-30 08:26:02.778394] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/globe/globe.htm$$$$
+[2017-07-30 08:26:03.280674] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/forum/sqgj/xhdc.htm$$$$
+[2017-07-30 08:26:03.465304] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/dy.htm$$$$
+[2017-07-30 08:26:03.879198] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/2016zt/2016ydyl/index.htm$$$$
+[2017-07-30 08:26:04.445129] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://paper.xinhuanet.com/$$$$
+[2017-07-30 08:26:06.262664] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/2015wlds/enindex.htm$$$$
+[2017-07-30 08:26:06.450682] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/cankao/$$$$
+[2017-07-30 08:26:06.728383] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/mx.htm$$$$
+[2017-07-30 08:26:07.540328] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/$$$$
+[2017-07-30 08:26:08.707441] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://ent.news.cn/zt.htm$$$$
+[2017-07-30 08:26:08.882397] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://cx.xinhuanet.com/index.htm$$$$
+[2017-07-30 08:26:09.261607] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/author$$$$
+[2017-07-30 08:26:09.712246] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/science/$$$$
+[2017-07-30 08:26:10.170008] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/city/zt.htm$$$$
+[2017-07-30 08:26:11.668894] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.zj.xinhuanet.com/2017special/2017knbhqhh/$$$$
+[2017-07-30 08:26:12.583682] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/$$$$
+[2017-07-30 08:26:13.983981] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/city/stcs.htm$$$$
+[2017-07-30 08:26:16.270916] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/health/$$$$
+[2017-07-30 08:26:18.122965] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/statics/sike/posts/2017/07/219521841.html$$$$
+[2017-07-30 08:26:18.401044] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/city/cshkt.htm$$$$
+[2017-07-30 08:26:19.310339] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/statics/sike/posts/2017/07/219521854.html$$$$
+[2017-07-30 08:26:21.877014] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/finance/xsb.htm$$$$
+[2017-07-30 08:26:23.304739] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/list/50-135-0-1.html$$$$
+[2017-07-30 08:26:23.599040] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/$$$$
+[2017-07-30 08:26:23.653094] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/itown/index.htm$$$$
+[2017-07-30 08:26:26.478745] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141076113/1.html$$$$
+[2017-07-30 08:26:26.530007] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://us.xinhuanet.com/2017-07/30/c_129667041.htm$$$$
+[2017-07-30 08:26:27.157752] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/datanews/wyf.htm$$$$
+[2017-07-30 08:26:27.544229] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/lianzheng/$$$$
+[2017-07-30 08:26:30.128500] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/datanews/xxt.htm$$$$
+[2017-07-30 08:26:30.262652] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/29/c_129667084.htm$$$$
+[2017-07-30 08:26:30.380766] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://us.xinhuanet.com/2017-07/30/c_129667509.htm$$$$
+[2017-07-30 08:26:30.549656] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141084983/1.html$$$$
+[2017-07-30 08:26:32.049762] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tw/index.htm$$$$
+[2017-07-30 08:26:33.813668] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141085599/1.html$$$$
+[2017-07-30 08:26:33.985028] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/datanews/pcjh.htm$$$$
+[2017-07-30 08:26:34.317445] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667416.htm$$$$
+[2017-07-30 08:26:35.697667] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/auto/index.htm$$$$
+[2017-07-30 08:26:37.498163] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/photo/zhuanti/bt/index.htm$$$$
+[2017-07-30 08:26:38.183166] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141089115/1.html$$$$
+[2017-07-30 08:26:38.612515] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667635.htm$$$$
+[2017-07-30 08:26:39.697937] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/food/index.htm$$$$
+[2017-07-30 08:26:40.133940] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://fms.news.cn/swf/2017qmtt/7_27_2017_xjp/index.html$$$$
+[2017-07-30 08:26:41.937603] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/wnzg2017/index.htm$$$$
+[2017-07-30 08:26:42.249809] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667895.htm$$$$
+[2017-07-30 08:26:43.820509] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/house/index.htm$$$$
+[2017-07-30 08:26:44.107135] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121388580.htm$$$$
+[2017-07-30 08:26:45.476670] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667896.htm$$$$
+[2017-07-30 08:26:45.784849] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/photo/zhuanti/dmzg/index.htm$$$$
+[2017-07-30 08:26:47.526504] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121389144.htm$$$$
+[2017-07-30 08:26:47.719824] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/legal/index.htm$$$$
+[2017-07-30 08:26:49.381474] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/27/c_1121389992.htm$$$$
+[2017-07-30 08:26:50.199549] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/newmedia/2017zgws02jx/index.htm$$$$
+[2017-07-30 08:26:51.262830] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121389211.htm$$$$
+[2017-07-30 08:26:52.039679] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/local/index.htm$$$$
+[2017-07-30 08:26:53.513133] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/28/c_1121392452.htm$$$$
+[2017-07-30 08:26:54.838368] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121389896.htm$$$$
+[2017-07-30 08:26:56.354669] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/money/index.htm$$$$
+[2017-07-30 08:26:57.978478] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/28/c_1121392988.htm$$$$
+[2017-07-30 08:26:58.171347] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gangao/index.htm$$$$
+[2017-07-30 08:26:59.730648] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/28/c_1121393014.htm$$$$
+[2017-07-30 08:27:01.766794] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fashion/index.htm$$$$
+[2017-07-30 08:27:04.239098] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/city/2017-07/28/c_129665790.htm$$$$
+[2017-07-30 08:27:06.053377] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/caiyan.htm$$$$
+[2017-07-30 08:27:08.225370] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm$$$$
+[2017-07-30 08:27:08.227425] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm$$$$
+[2017-07-30 08:27:08.227543] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm$$$$
+[2017-07-30 08:27:08.930858] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm$$$$
+[2017-07-30 08:27:08.931377] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/info/2017-07/30/c_136484294.htm start$$$$
+[2017-07-30 08:27:08.933169] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:27:09.985800] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/forum/sqgj/dzf.htm$$$$
+[2017-07-30 08:27:11.115159] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm$$$$
+[2017-07-30 08:27:11.118335] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm$$$$
+[2017-07-30 08:27:11.118487] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm$$$$
+[2017-07-30 08:27:11.557788] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm$$$$
+[2017-07-30 08:27:11.558316] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/info/2017-07/30/c_136484458.htm start$$$$
+[2017-07-30 08:27:11.559521] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:27:12.889660] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/overseas/index.htm$$$$
+[2017-07-30 08:27:15.536317] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/auto/2017-07/28/c_1121392576.htm$$$$
+[2017-07-30 08:27:16.814401] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/world/jrch/hqlft.htm$$$$
+[2017-07-30 08:27:19.403341] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm$$$$
+[2017-07-30 08:27:19.405410] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm$$$$
+[2017-07-30 08:27:19.405526] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm$$$$
+[2017-07-30 08:27:19.705681] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm$$$$
+[2017-07-30 08:27:19.706245] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/food/2017-07/30/c_1121401611.htm start$$$$
+[2017-07-30 08:27:19.707394] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:27:21.062156] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/world/jzzl/index.htm$$$$
+[2017-07-30 08:27:23.286827] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/legal/2017-07/30/c_129667326.htm$$$$
+[2017-07-30 08:27:25.501204] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/foto/$$$$
+[2017-07-30 08:27:26.063091] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm$$$$
+[2017-07-30 08:27:26.064923] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm$$$$
+[2017-07-30 08:27:26.065036] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm$$$$
+[2017-07-30 08:27:26.347355] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm$$$$
+[2017-07-30 08:27:26.347852] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_129667405.htm start$$$$
+[2017-07-30 08:27:26.349062] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:27:28.203062] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/zhcs/$$$$
+[2017-07-30 08:27:28.518399] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2016-04/14/c_128892032.htm$$$$
+[2017-07-30 08:27:31.851519] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2016-09/30/c_129306601.htm$$$$
+[2017-07-30 08:27:32.581598] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/power/$$$$
+[2017-07-30 08:27:36.310898] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2016-10/31/c_129341898.htm$$$$
+[2017-07-30 08:27:36.428094] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/culture/$$$$
+[2017-07-30 08:27:39.689925] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/jiadian/$$$$
+[2017-07-30 08:27:40.640270] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/05/c_129647381.htm$$$$
+[2017-07-30 08:27:43.810355] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/11/c_129649724.htm$$$$
+[2017-07-30 08:27:44.043596] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gdtt/index.htm$$$$
+[2017-07-30 08:27:47.265530] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/jiaju/index.htm$$$$
+[2017-07-30 08:27:47.621914] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/13/c_129653704.htm$$$$
+[2017-07-30 08:27:51.158346] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/zhuanti/bt/index.htm$$$$
+[2017-07-30 08:27:51.999956] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/29/c_129667100.htm$$$$
+[2017-07-30 08:27:55.165005] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/leaders/index.htm$$$$
+[2017-07-30 08:27:55.207665] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667341.htm$$$$
+[2017-07-30 08:27:58.336237] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/whxw.htm$$$$
+[2017-07-30 08:27:59.553514] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667342.htm$$$$
+[2017-07-30 08:28:01.346004] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/xhjj.htm$$$$
+[2017-07-30 08:28:02.469620] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667344.htm$$$$
+[2017-07-30 08:28:05.128801] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667345.htm$$$$
+[2017-07-30 08:28:05.212151] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/xhtp.htm$$$$
+[2017-07-30 08:28:08.681489] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/video/xbsp/yccp/jkjm/index.htm$$$$
+[2017-07-30 08:28:09.183733] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/video/2017-07/30/c_129667347.htm$$$$
+[2017-07-30 08:28:12.317615] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm$$$$
+[2017-07-30 08:28:12.319715] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm$$$$
+[2017-07-30 08:28:12.319831] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm$$$$
+[2017-07-30 08:28:12.680719] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm$$$$
+[2017-07-30 08:28:12.681299] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129666503.htm start$$$$
+[2017-07-30 08:28:12.682562] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:28:13.145639] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/djch.htm$$$$
+[2017-07-30 08:28:16.377554] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/zktx.htm$$$$
+[2017-07-30 08:28:16.566914] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm$$$$
+[2017-07-30 08:28:16.568827] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm$$$$
+[2017-07-30 08:28:16.568942] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm$$$$
+[2017-07-30 08:28:16.873598] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm$$$$
+[2017-07-30 08:28:16.873978] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667142.htm start$$$$
+[2017-07-30 08:28:16.875010] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:28:20.202432] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm$$$$
+[2017-07-30 08:28:20.204981] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm$$$$
+[2017-07-30 08:28:20.205103] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm$$$$
+[2017-07-30 08:28:20.491562] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm$$$$
+[2017-07-30 08:28:20.491982] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667216.htm start$$$$
+[2017-07-30 08:28:20.492881] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:28:20.698914] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/zxtp.htm$$$$
+[2017-07-30 08:28:24.158113] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/rs.htm$$$$
+[2017-07-30 08:28:24.511432] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm$$$$
+[2017-07-30 08:28:24.513060] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm$$$$
+[2017-07-30 08:28:24.513173] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm$$$$
+[2017-07-30 08:28:24.843211] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm$$$$
+[2017-07-30 08:28:24.843751] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667237.htm start$$$$
+[2017-07-30 08:28:24.844993] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:28:27.504255] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/talking/chinasafety/$$$$
+[2017-07-30 08:28:28.314040] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm$$$$
+[2017-07-30 08:28:28.315901] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm$$$$
+[2017-07-30 08:28:28.316042] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm$$$$
+[2017-07-30 08:28:28.657338] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm$$$$
+[2017-07-30 08:28:28.657895] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_129667303.htm start$$$$
+[2017-07-30 08:28:28.659493] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:28:29.468355] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/edu/ztc.htm$$$$
+[2017-07-30 08:28:30.949570] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/gangao/2017-07/29/c_129666984.htm$$$$
+[2017-07-30 08:28:33.529571] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/money/dj.htm$$$$
+[2017-07-30 08:28:34.382029] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/gangao/2017-07/30/c_129667206.htm$$$$
+[2017-07-30 08:28:37.420590] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/auto/qt.htm$$$$
+[2017-07-30 08:28:38.389009] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/house/2017-07-28/c_1121392212.htm$$$$
+[2017-07-30 08:28:40.803287] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tech/Eyt.htm$$$$
+[2017-07-30 08:28:41.980975] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/legal/2017-07/30/c_1121401221.htm$$$$
+[2017-07-30 08:28:44.680091] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tech/hlwj.htm$$$$
+[2017-07-30 08:28:45.676931] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm$$$$
+[2017-07-30 08:28:45.678738] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm$$$$
+[2017-07-30 08:28:45.678905] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm$$$$
+[2017-07-30 08:28:46.049866] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm$$$$
+[2017-07-30 08:28:46.050429] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121401495.htm start$$$$
+[2017-07-30 08:28:46.051475] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:28:46.157552] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/statics/sike/posts/2017/07/219521801.html$$$$
+[2017-07-30 08:28:49.162903] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/energy/hjbg.htm$$$$
+[2017-07-30 08:28:49.430702] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm$$$$
+[2017-07-30 08:28:49.432617] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm$$$$
+[2017-07-30 08:28:49.432782] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm$$$$
+[2017-07-30 08:28:49.757813] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm$$$$
+[2017-07-30 08:28:49.758435] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121401970.htm start$$$$
+[2017-07-30 08:28:49.759557] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:28:53.261050] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/food/mslist.htm$$$$
+[2017-07-30 08:28:53.493613] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm$$$$
+[2017-07-30 08:28:53.495422] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm$$$$
+[2017-07-30 08:28:53.495586] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm$$$$
+[2017-07-30 08:28:53.824783] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm$$$$
+[2017-07-30 08:28:53.825322] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121402759.htm start$$$$
+[2017-07-30 08:28:53.826347] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:28:57.089882] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm$$$$
+[2017-07-30 08:28:57.091883] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm$$$$
+[2017-07-30 08:28:57.092050] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm$$$$
+[2017-07-30 08:28:57.419601] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm$$$$
+[2017-07-30 08:28:57.420046] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121402788.htm start$$$$
+[2017-07-30 08:28:57.421016] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:28:57.627417] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gangao/gtmrf.htm$$$$
+[2017-07-30 08:29:01.309806] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tw/2015/xhkt.htm$$$$
+[2017-07-30 08:29:01.467049] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm$$$$
+[2017-07-30 08:29:01.468948] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm$$$$
+[2017-07-30 08:29:01.469076] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm$$$$
+[2017-07-30 08:29:01.790235] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm$$$$
+[2017-07-30 08:29:01.790939] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121403024.htm start$$$$
+[2017-07-30 08:29:01.792322] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:29:05.282958] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/local/2017-07/30/c_1121403232.htm$$$$
+[2017-07-30 08:29:05.285100] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/local/2017-07/30/c_1121403232.htm$$$$
+[2017-07-30 08:29:05.285214] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/local/2017-07/30/c_1121403232.htm$$$$
+[2017-07-30 08:29:05.731277] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/local/2017-07/30/c_1121403232.htm$$$$
+[2017-07-30 08:29:05.731695] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/local/2017-07/30/c_1121403232.htm start$$$$
+[2017-07-30 08:29:05.732510] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:29:05.743646] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/local/qianan/index.html$$$$
+[2017-07-30 08:29:07.670255] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/2015/xhcppub/xhsqmbd/index.html$$$$
+[2017-07-30 08:29:09.581908] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/22/c_1121361079.htm$$$$
+[2017-07-30 08:29:13.753223] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/28/c_1121397682.htm$$$$
+[2017-07-30 08:29:17.526961] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/28/c_1121397941.htm$$$$
+[2017-07-30 08:29:18.853534] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://th.news.cn$$$$
+[2017-07-30 08:29:19.419524] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400711.htm$$$$
+[2017-07-30 08:29:19.591618] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://game.news.cn/$$$$
+[2017-07-30 08:29:20.336538] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sike.news.cn/$$$$
+[2017-07-30 08:29:21.141998] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://jiaju.news.cn/$$$$
+[2017-07-30 08:29:21.220685] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://book.news.cn/$$$$
+[2017-07-30 08:29:21.392950] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://scifi.news.cn/$$$$
+[2017-07-30 08:29:21.560349] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://chanye.news.cn/$$$$
+[2017-07-30 08:29:22.972419] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400719.htm$$$$
+[2017-07-30 08:29:23.089542] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://bt.xinhuanet.com/$$$$
+[2017-07-30 08:29:23.164553] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sg.xinhuanet.com/$$$$
+[2017-07-30 08:29:23.390873] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://vodfile7.news.cn/data/cdn_transfer/04/0F/04ee73c59a5ff0a44fe9d8dbab3812670125f20f.mp4$$$$
+[2017-07-30 08:29:23.750864] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://wx.xinhuanet.com/$$$$
+[2017-07-30 08:29:23.885702] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://csj.xinhuanet.com/$$$$
+[2017-07-30 08:29:25.672435] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/vr/$$$$
+[2017-07-30 08:29:27.232562] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/photo/2017-07/29/c_1121400725.htm$$$$
+[2017-07-30 08:29:27.662427] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xhgy.xinhuanet.com/$$$$
+[2017-07-30 08:29:27.981342] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://cx.news.cn/index.htm$$$$
+[2017-07-30 08:29:28.052369] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://korea.xinhuanet.com/$$$$
+[2017-07-30 08:29:30.138837] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/air/$$$$
+[2017-07-30 08:29:30.921109] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm$$$$
+[2017-07-30 08:29:30.922832] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm$$$$
+[2017-07-30 08:29:30.922949] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm$$$$
+[2017-07-30 08:29:31.360012] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm$$$$
+[2017-07-30 08:29:31.360493] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/28/c_1121398019.htm start$$$$
+[2017-07-30 08:29:31.361516] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:29:31.465166] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/$$$$
+[2017-07-30 08:29:31.646971] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.hlj.xinhuanet.com/$$$$
+[2017-07-30 08:29:32.991366] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/expo/$$$$
+[2017-07-30 08:29:33.912932] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.nmg.xinhuanet.com/$$$$
+[2017-07-30 08:29:34.921791] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm$$$$
+[2017-07-30 08:29:35.058035] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm$$$$
+[2017-07-30 08:29:35.058156] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm$$$$
+[2017-07-30 08:29:35.385887] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm$$$$
+[2017-07-30 08:29:35.386396] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/29/c_1121400289.htm start$$$$
+[2017-07-30 08:29:35.387394] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:29:36.722326] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/local/$$$$
+[2017-07-30 08:29:38.120577] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm$$$$
+[2017-07-30 08:29:38.122583] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm$$$$
+[2017-07-30 08:29:38.122762] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm$$$$
+[2017-07-30 08:29:38.433361] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm$$$$
+[2017-07-30 08:29:38.433780] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/world/2017-07/30/c_1121401024.htm start$$$$
+[2017-07-30 08:29:38.434575] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:29:40.846773] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/xhsld/$$$$
+[2017-07-30 08:29:41.679290] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129665798.htm$$$$
+[2017-07-30 08:29:44.729743] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/cmzs.htm$$$$
+[2017-07-30 08:29:46.084233] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129665811.htm$$$$
+[2017-07-30 08:29:48.582530] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/finance/$$$$
+[2017-07-30 08:29:48.845935] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129665831.htm$$$$
+[2017-07-30 08:29:51.265797] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/info/spsy/$$$$
+[2017-07-30 08:29:52.022599] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129665943.htm$$$$
+[2017-07-30 08:29:55.597456] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/auto/dg.htm$$$$
+[2017-07-30 08:29:55.976391] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129666006.htm$$$$
+[2017-07-30 08:29:58.581048] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/yuqing/2017-07/28/c_129666139.htm$$$$
+[2017-07-30 08:29:59.632838] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/auto/xc.htm$$$$
+[2017-07-30 08:30:02.402234] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129666347.htm$$$$
+[2017-07-30 08:30:03.924839] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/legal/fy.htm$$$$
+[2017-07-30 08:30:06.061659] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129667357.htm$$$$
+[2017-07-30 08:30:07.876737] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/legal/ffu.htm$$$$
+[2017-07-30 08:30:09.594043] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129667379.htm$$$$
+[2017-07-30 08:30:11.036567] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/mil/index.htm$$$$
+[2017-07-30 08:30:11.282799] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/mls.htm$$$$
+[2017-07-30 08:30:11.739542] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/index.jsp$$$$
+[2017-07-30 08:30:13.773230] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129667385.htm$$$$
+[2017-07-30 08:30:13.928275] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/shuhua/zx.htm$$$$
+[2017-07-30 08:30:18.020400] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/city/index.htm$$$$
+[2017-07-30 08:30:18.104594] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_129667394.htm$$$$
+[2017-07-30 08:30:20.739038] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/gd.htm$$$$
+[2017-07-30 08:30:22.352379] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/science/2017-07/29/c_136480192.htm$$$$
+[2017-07-30 08:30:24.901569] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/info/index.htm$$$$
+[2017-07-30 08:30:26.477683] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/science/2017-07/29/c_136480578.htm$$$$
+[2017-07-30 08:30:28.528140] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/money/jrjs.htm$$$$
+[2017-07-30 08:30:29.257815] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/science/2017-07/29/c_136480619.htm$$$$
+[2017-07-30 08:30:29.473154] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/tycy.htm$$$$
+[2017-07-30 08:30:31.948541] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/vr/wnsjjzg/$$$$
+[2017-07-30 08:30:32.333296] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/zhty.htm$$$$
+[2017-07-30 08:30:32.947630] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/tech/index.htm$$$$
+[2017-07-30 08:30:33.213905] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/science/2017-07/29/c_136480820.htm$$$$
+[2017-07-30 08:30:35.640717] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/science/2017-07/29/c_136480826.htm$$$$
+[2017-07-30 08:30:39.970050] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/shuhua/2017-07/29/c_1121398481.htm$$$$
+[2017-07-30 08:30:40.253801] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/cfx.htm$$$$
+[2017-07-30 08:30:42.486756] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/shuhua/2017-07/29/c_1121398490.htm$$$$
+[2017-07-30 08:30:44.101371] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/shuhua/2017-07/29/c_1121398492.htm$$$$
+[2017-07-30 08:30:44.267863] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gangao/gadj.htm$$$$
+[2017-07-30 08:30:44.299913] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/local/nxw.htm$$$$
+[2017-07-30 08:30:46.956898] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/shuhua/2017-07/29/c_1121398769.htm$$$$
+[2017-07-30 08:30:47.752119] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/mil/jzmymy2014/$$$$
+[2017-07-30 08:30:48.540905] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/xhwq/index.htm$$$$
+[2017-07-30 08:30:49.632993] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/shuhua/2017-07/29/c_1121398885.htm$$$$
+[2017-07-30 08:30:51.789622] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/photo/index.htm$$$$
+[2017-07-30 08:30:53.843809] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/caipiao/2017-07/30/c_1121401570.htm$$$$
+[2017-07-30 08:30:54.946110] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/xxjxs/$$$$
+[2017-07-30 08:30:55.713656] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/xhll.htm$$$$
+[2017-07-30 08:30:55.857611] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://xuan.news.cn/zt/iframe_jieshuys.html$$$$
+[2017-07-30 08:30:57.863368] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/video/index.htm$$$$
+[2017-07-30 08:30:57.888453] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/caipiao/2017-07/30/c_1121401609.htm$$$$
+[2017-07-30 08:30:58.026055] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.jx.xinhuanet.com/3g90zn/index.html$$$$
+[2017-07-30 08:31:00.013450] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/swxzqsz/$$$$
+[2017-07-30 08:31:00.597818] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121401132.htm$$$$
+[2017-07-30 08:31:01.032053] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/world/index.htm$$$$
+[2017-07-30 08:31:03.801382] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/yuqing/sjfb.htm$$$$
+[2017-07-30 08:31:04.199470] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/2015wlds/index.htm$$$$
+[2017-07-30 08:31:04.564141] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141080667/1.html$$$$
+[2017-07-30 08:31:04.954771] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121401273.htm$$$$
+[2017-07-30 08:31:07.442259] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/datanews/index.htm$$$$
+[2017-07-30 08:31:07.915700] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141082129/1.html$$$$
+[2017-07-30 08:31:08.041193] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/yuqing/yqbb.htm$$$$
+[2017-07-30 08:31:08.851051] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121401357.htm$$$$
+[2017-07-30 08:31:10.372813] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/video/xinhuaradio/$$$$
+[2017-07-30 08:31:11.200838] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/abroad/index.htm$$$$
+[2017-07-30 08:31:12.088834] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141084974/1.html$$$$
+[2017-07-30 08:31:12.911700] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121402459.htm$$$$
+[2017-07-30 08:31:13.959363] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/forum/sqgj/jrht.htm$$$$
+[2017-07-30 08:31:14.172448] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/caipiao/cpkp.htm$$$$
+[2017-07-30 08:31:15.413297] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121402563.htm$$$$
+[2017-07-30 08:31:16.130366] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141085344/1.html$$$$
+[2017-07-30 08:31:17.761782] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/caipiao/cpyw.htm$$$$
+[2017-07-30 08:31:18.039078] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/video/gjxc/index.htm$$$$
+[2017-07-30 08:31:19.712483] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/fortune/2017-07/30/c_1121403189.htm$$$$
+[2017-07-30 08:31:20.185519] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141089869/1.html$$$$
+[2017-07-30 08:31:21.142840] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/science/kpzgxhwzq.htm$$$$
+[2017-07-30 08:31:22.139291] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/caipiao/sjcp.htm$$$$
+[2017-07-30 08:31:23.352962] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/27/c_1121268361.htm$$$$
+[2017-07-30 08:31:23.909077] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141089964/1.html$$$$
+[2017-07-30 08:31:25.029906] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/science/scez/index.htm$$$$
+[2017-07-30 08:31:26.144157] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/energy/index.htm$$$$
+[2017-07-30 08:31:26.916321] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/29/c_1121398518.htm$$$$
+[2017-07-30 08:31:27.546096] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://forum.home.news.cn/detail/141090044/1.html$$$$
+[2017-07-30 08:31:28.250871] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/gongyi/index.htm$$$$
+[2017-07-30 08:31:28.862068] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/jj90/index.htm$$$$
+[2017-07-30 08:31:29.090526] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm$$$$
+[2017-07-30 08:31:29.092121] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm$$$$
+[2017-07-30 08:31:29.092263] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm$$$$
+[2017-07-30 08:31:29.325882] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm$$$$
+[2017-07-30 08:31:29.326371] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/28/c_1121397989.htm start$$$$
+[2017-07-30 08:31:29.327444] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:31:31.894408] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/politics/xgc.htm$$$$
+[2017-07-30 08:31:32.379930] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/sghyg/index.htm$$$$
+[2017-07-30 08:31:33.381057] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/29/c_1121398367.htm$$$$
+[2017-07-30 08:31:33.383140] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/29/c_1121398367.htm$$$$
+[2017-07-30 08:31:33.383253] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/29/c_1121398367.htm$$$$
+[2017-07-30 08:31:33.903918] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/29/c_1121398367.htm$$$$
+[2017-07-30 08:31:33.904404] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/29/c_1121398367.htm start$$$$
+[2017-07-30 08:31:33.905431] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:31:35.811464] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/renshi/index.htm$$$$
+[2017-07-30 08:31:36.008997] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/2017yb/index.htm$$$$
+[2017-07-30 08:31:36.629036] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/29/c_1121400850.htm$$$$
+[2017-07-30 08:31:36.630352] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/29/c_1121400850.htm$$$$
+[2017-07-30 08:31:36.630499] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/29/c_1121400850.htm$$$$
+[2017-07-30 08:31:36.855442] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/29/c_1121400850.htm$$$$
+[2017-07-30 08:31:36.855763] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/29/c_1121400850.htm start$$$$
+[2017-07-30 08:31:36.856535] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:31:40.227734] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm$$$$
+[2017-07-30 08:31:40.229828] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm$$$$
+[2017-07-30 08:31:40.229978] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm$$$$
+[2017-07-30 08:31:40.671644] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm$$$$
+[2017-07-30 08:31:40.672128] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121401112.htm start$$$$
+[2017-07-30 08:31:40.673129] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:31:40.788200] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/shuhua/index.htm$$$$
+[2017-07-30 08:31:40.889249] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/2015fpr/index.htm$$$$
+[2017-07-30 08:31:41.068039] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://sports.xinhuanet.com/c/2017-07/28/c_1121391979.htm$$$$
+[2017-07-30 08:31:43.596875] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm$$$$
+[2017-07-30 08:31:43.597678] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm$$$$
+[2017-07-30 08:31:43.597812] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm$$$$
+[2017-07-30 08:31:43.691972] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm$$$$
+[2017-07-30 08:31:43.692219] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121401213.htm start$$$$
+[2017-07-30 08:31:43.693043] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:31:44.231514] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/dlfjdwn/index.htm$$$$
+[2017-07-30 08:31:44.614732] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/yuqing/index.htm$$$$
+[2017-07-30 08:31:47.047734] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm$$$$
+[2017-07-30 08:31:47.050440] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm$$$$
+[2017-07-30 08:31:47.050572] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm$$$$
+[2017-07-30 08:31:47.419860] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm$$$$
+[2017-07-30 08:31:47.420371] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121402151.htm start$$$$
+[2017-07-30 08:31:47.421424] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:31:47.827998] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/world/2017daqiju/index.htm$$$$
+[2017-07-30 08:31:48.455812] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/caipiao/index.htm$$$$
+[2017-07-30 08:31:49.171199] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/politics/2017-07/30/c_1121403314.htm$$$$
+[2017-07-30 08:31:49.172261] INFO: 中搜Demo--xinhuanet: $$$$详情页：http://news.xinhuanet.com/politics/2017-07/30/c_1121403314.htm$$$$
+[2017-07-30 08:31:49.172390] INFO: 中搜Demo--xinhuanet: $$$$详情页解析开始：http://news.xinhuanet.com/politics/2017-07/30/c_1121403314.htm$$$$
+[2017-07-30 08:31:49.617407] INFO: 中搜Demo--xinhuanet: $$$$详情页解析结束：http://news.xinhuanet.com/politics/2017-07/30/c_1121403314.htm$$$$
+[2017-07-30 08:31:49.617725] INFO: 中搜Demo--xinhuanet: $$$$intsert into mongodb http://news.xinhuanet.com/politics/2017-07/30/c_1121403314.htm start$$$$
+[2017-07-30 08:31:49.618477] INFO: 中搜Demo--xinhuanet: $$$$insert into mongodb success$$$$
+[2017-07-30 08:31:51.019063] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/finance/tzzjyfwjd/index.htm$$$$
+[2017-07-30 08:31:52.435790] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/30/c_1121389205_2.htm$$$$
+[2017-07-30 08:31:52.749497] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/fortune/dujia.htm$$$$
+[2017-07-30 08:31:55.460201] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/video/xinhuaradio/index.htm$$$$
+[2017-07-30 08:31:55.511967] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/30/c_1121389205_6.htm$$$$
+[2017-07-30 08:31:57.242344] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/house/bj/xhyy.htm$$$$
+[2017-07-30 08:31:59.223088] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/xuanzhi/zt/xzyxl/index.html$$$$
+[2017-07-30 08:31:59.620038] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/comments/2017-07/30/c_1121389205_9.htm$$$$
+[2017-07-30 08:32:01.626372] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/comments/index.htm$$$$
+[2017-07-30 08:32:03.025981] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/cyzdjxs2017/index.htm$$$$
+[2017-07-30 08:32:04.031199] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-05/18/c_129606336.htm$$$$
+[2017-07-30 08:32:05.586728] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/finance/istock.htm$$$$
+[2017-07-30 08:32:06.989501] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.xinhuanet.com/politics/liangxueyizuo/index.htm$$$$
+[2017-07-30 08:32:07.697409] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-05/25/c_129617758.htm$$$$
+[2017-07-30 08:32:09.758193] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://www.news.cn/mil/zgjt/index.htm$$$$
+[2017-07-30 08:32:11.254160] INFO: 中搜Demo--xinhuanet: $$$$开始解析：http://news.xinhuanet.com/2017-07/30/c_129667081.htm$$$$

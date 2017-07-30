@@ -1,0 +1,5 @@
+[2017-07-29 08:02:31.775788] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml开始
+[2017-07-29 08:02:31.828012] DEBUG: 中搜Demo--xinhuanet: 读取并解析配置文件configure.xml结束
+[2017-07-29 08:02:32.582404] DEBUG: 中搜Demo--xinhuanet: =====================init mongodb=========================
+[2017-07-29 08:02:32.582588] DEBUG: 中搜Demo--xinhuanet: init mongodb start
+[2017-07-29 08:02:32.584316] DEBUG: 中搜Demo--xinhuanet: init mongodb end
